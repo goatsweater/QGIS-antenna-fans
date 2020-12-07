@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "antennas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "azimuth": 90, "beamwidth": 30 }, "geometry": { "type": "Point", "coordinates": [ -75.93826196637643, 45.266954654928981 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "azimuth": 90, "beamwidth": 90 }, "geometry": { "type": "Point", "coordinates": [ -75.876457429557462, 45.304489326909369 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "azimuth": 90, "beamwidth": 180 }, "geometry": { "type": "Point", "coordinates": [ -75.84655628934722, 45.252473073462845 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "azimuth": 90, "beamwidth": 270 }, "geometry": { "type": "Point", "coordinates": [ -75.893990890230413, 45.22746343298472 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "azimuth": 90, "beamwidth": 360 }, "geometry": { "type": "Point", "coordinates": [ -75.829125557379356, 45.203272499970893 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "azimuth": 175, "beamwidth": 45 }, "geometry": { "type": "Point", "coordinates": [ -75.776252134803315, 45.320674921317568 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "azimuth": 100, "beamwidth": 130 }, "geometry": { "type": "Point", "coordinates": [ -75.747907619607901, 45.327956609094201 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "azimuth": 260, "beamwidth": 60 }, "geometry": { "type": "Point", "coordinates": [ -75.732645188348812, 45.298824242198421 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "azimuth": 73, "beamwidth": 240 }, "geometry": { "type": "Point", "coordinates": [ -75.715454948773257, 45.281559934883283 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "azimuth": 198, "beamwidth": 190 }, "geometry": { "type": "Point", "coordinates": [ -75.737060391677346, 45.253249356744902 ] } }
+]
+}
